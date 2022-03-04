@@ -258,6 +258,7 @@
    <text:p text:style-name="P1">Text bla bla bla.</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P3">Second Commit Text.</text:p>
+   <text:p text:style-name="P3">aaa branch Text</text:p>
    <text:p text:style-name="P3"/>
   </office:text>
  </office:body>
